@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../imgs_santi/fondo_santi.jpg);
+}
+nav{
+    width: 100%;
+    background-color: white;
+}
+nav img{
+    margin-left: 100px;
+}
+nav ul{
+    list-style-type: none;
+    position: absolute;top: 40px; left: 380px;
+}
+nav ul li{
+    float: left;
+    display: block;
+    letter-spacing: 2px;
+}
+nav ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+    font-size: 25px;
+}
+.iconos{
+    width: 20px;
+    height: 20px;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#tlf{
+    position: absolute;left: 1250px;top: 20px;
+}
+#num{
+    position: absolute;left: 1380px;top: 20px;
+}
+#email{
+    position: absolute;left: 1250px;top: 60px;
+}
+#mail{
+    position: absolute;left: 1380px;top: 58px;
+}
+#encuentro{
+    position: absolute;left: 1250px;top: 100px;
+}
+#calle{
+    position: absolute;left: 1380px;top: 100px;
+}
+#pie{
+    width: 100%;
+    background-color: white;
+    margin-top: 15px;
+}
+.imgspie{
+    width: 40px;
+    height: 40px;
+}
+#logo{
+    position: relative;left: 600px;
+}
+#insta{
+    position: relative; left: 650px; bottom: 80px;
+}
+#yt{
+    position: relative;left: 605px; bottom: 20px;
+}
+#twitter{
+    position: relative;left: 1020px; bottom: 80px;
+}
+#contacto{
+    position: relative;left: 975px; bottom: 20px;
+}

@@ -1,0 +1,27 @@
+fieldset{
+    background-color: rgba(211, 211, 211, 0.3);
+    color: black;
+    float: left;
+    position: relative;left: 697px;bottom: 50px;
+    font-size: 20px;
+}
+#enviar{
+height: 30px;
+width: 130px;
+font-size: 15px;
+text-align: center;
+margin-left: 170px;
+}
+#enviar:hover{
+    text-decoration: underline;
+}
+input, select, b{
+    margin-left: 5px;
+}
+textarea{
+    margin-left: 8px;
+}
+#contenedor2{
+    background-color: rgba(255, 0, 0, 0);
+    height: 685px;
+}

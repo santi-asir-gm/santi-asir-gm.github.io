@@ -1,0 +1,27 @@
+#infogaleria{
+    background-color: rgba(220, 220, 220, 0.7);
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 15px;
+}
+.imgsgaleria{
+    width: 400px;
+    height: 350px;
+    margin: 10px;
+}
+#primerafila{
+    margin-left: 80px;
+}
+#segundafila{
+    margin-left: 80px;
+}
+#tercerafila{
+    margin-left: 80px;
+}
+#cuartafila{
+    margin-left: 80px;
+}
+#quintafila{
+    margin-left: 80px;
+}

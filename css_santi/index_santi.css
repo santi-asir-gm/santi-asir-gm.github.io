@@ -1,0 +1,82 @@
+#intro{
+    background-color: rgba(220, 220, 220, 0.5);
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 1700px;
+}
+#presentacion{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p a:hover{
+    text-decoration: underline;
+    color: lightgoldenrodyellow;
+}
+.imgsintro{
+    width: 595px;
+    height: 395px;
+}
+.imgsintro:hover{
+    border: 5px solid black;
+}
+#imgtipos{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#imgtatuadores{
+    margin-left: 123px;
+    margin-right: 50px;
+}
+#imgservicios{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+#imggaleria{
+    margin-left: 123px;
+    margin-right: 50px;
+}
+#imgblog{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+#imgcita{
+    margin-left: 250px;
+    margin-right: 50px;
+    margin-bottom: 120px;
+}
+#imgcita:hover{
+    border: 5px solid black;
+}
+
+
+.pindex{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+#ptipos{
+    display: inline-block;
+    position: absolute;top: 730px;left: 530px;
+}
+#ptatuadores{
+    display: inline-block;
+    position: absolute;top: 730px;left: 1200px;
+}
+#pservicios{
+    display: inline-block;
+    position: absolute;top: 1230px;left: 500px;
+}
+#pgaleria{
+    display: inline-block;
+    position: absolute;top: 1230px;left: 1230px;
+}
+#pblog{
+    display: inline-block;
+    position: absolute;top: 1730px;left: 540px;
+}

@@ -1,0 +1,80 @@
+.info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#olds{
+    background-color: rgba(220, 220, 220, 0.8);
+    width: 300px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#infoolds{
+    background-color: rgba(220, 220, 220, 0.6);
+    text-align: center;
+    margin-left: 135px;
+    margin-top: 20px;
+    width: 1000px;
+    padding: 5px;
+}
+#imgolds{
+    position: absolute;top: 150px;left: 1200px;
+    width: 500px; 
+}
+#imgolds2{
+    position: absolute;top: 475px;left: 1200px;
+    width: 500px; height: 400px;
+}
+video{
+    margin-left: 145px;
+    margin-top: 30px;
+}
+#realista1{
+    position: absolute;top: 150px;left: 1200px;
+    width: 500px;height: 350px;
+}
+#realista2{
+    position: absolute;top: 530px;left: 1200px;
+    width: 500px;height: 350px;
+}
+#japones1{
+    position: absolute;top: 150px;left: 1220px;
+    width: 450px;height: 375px;
+}
+#japones2{
+    position: absolute;top: 550px;left: 1220px;
+    width: 450px;height: 360px;
+}
+.vermas{
+    width: 150px;
+    background-color: rgba(255, 255, 255, 0.65);;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 3px;
+    letter-spacing: 3px;
+    position: absolute;top: 850px; left: 400px;
+    border-radius: 25%;
+}
+.vermas:hover{
+    background-color:rgba(255, 255, 255, 0.9) ;
+}
+.cita{
+    width: 160px;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 3px;
+    letter-spacing: 3px;
+    position: absolute;top: 850px; left: 630px;
+    border-radius: 25%;
+}
+.cita:hover{
+    background-color:rgba(255, 255, 255, 0.9) ;
+}
+.contenedor{
+    background-color: rgba(255, 0, 0, 0);
+    height: 750px;
+}

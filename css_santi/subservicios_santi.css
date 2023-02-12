@@ -1,0 +1,128 @@
+.info{
+    background-color: rgba(220, 220, 220, 0.7);
+    width: 70%;
+    height: 980px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 15px;
+}
+h2{
+    text-align: center;
+    background-color:rgba(220, 220, 220, 1);
+    width: 50%;
+    margin: 0 auto;
+}
+ul{
+    list-style: square;
+    margin-left: 30px;
+}
+.imgsservicios{
+    height: 320px;
+    width: 350px;
+    border: 1px solid black;
+}
+#omb{
+    margin-left: 75px;
+}
+#septum{
+    position: relative;top: 35px;
+}
+#sep{
+    margin-left: 135px;position: relative;top: 40px;
+}
+#tragus{
+    position: absolute;left: 783px; bottom: 208px;
+}
+#tra{
+    margin-left: 640px;
+    position: absolute;bottom: 185px;
+}
+#lengua{
+    position: absolute;left: 1265px;bottom: 208px;
+}
+#leng{
+    margin-left: 1055px;
+    position: absolute;bottom: 185px;
+}
+#lobulo{
+    position: absolute;left: 783px;bottom: -170px;
+}
+#lob{
+    margin-left: 580px;
+    position: relative;top: 22px;
+}
+b p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cita{
+    width: 160px;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 3px;
+    letter-spacing: 3px;
+    position: absolute;top: 950px; left: 1350px;
+    border-radius: 25%;
+}
+#citatatus{
+    width: 160px;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 3px;
+    letter-spacing: 3px;
+    position: absolute;top: 950px; left: 1350px;
+    border-radius: 25%;
+}
+.cita:hover{
+    background-color:rgba(255, 255, 255, 0.9) ;
+}
+#citatatus:hover{
+    background-color: rgba(255, 255, 255, 0.9) ;
+}
+.enlacetatu{
+    text-decoration: none;
+    color: black;
+}
+.enlacetatu:hover{
+    color: lightgoldenrodyellow;
+}
+#quittatu{
+    position: relative;left: 350px;
+}
+#anteslaser{
+    margin-left: 300px;
+}
+#oschool{
+    margin-left: 120px;
+}
+#bw{
+    position: absolute;top: 460px;left: 800px;
+}
+#bwork{
+    position: absolute;top: 787px;left: 925px;
+}
+#real{
+    position: absolute;top: 460px;left: 1265px;
+}
+#realista{
+    position: absolute;top: 787px;left: 1410px;
+}
+#jt{
+    margin-top: 15px;
+}
+#jtrad{
+    margin-left: 75px;
+}
+#infomaquina{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    position: absolute;top: 885px;left: 782px;
+}
+audio{
+    position: absolute;top: 945px;left: 830px;
+}

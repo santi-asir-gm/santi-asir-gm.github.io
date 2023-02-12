@@ -1,0 +1,47 @@
+#introservicios{
+    width: 75%;height: 1350px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: rgba(220, 220, 220, 0.7);
+    text-align: center;
+}
+#infoservicios{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+padding: 10px;
+}
+#enlaceservicios{
+    text-decoration: none;
+    color: black;
+}
+#enlaceservicios:hover{
+    color: lightgoldenrodyellow;
+}
+.imgsservicios{
+    width: 500px;
+    height: 500px;
+}
+.imgsservicios:hover{
+    border: 5px solid black;
+}
+#tservicios{
+    margin-right: 200px;
+}
+#qservicios{
+    margin-top: 100px;
+}
+.pservicios{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+}
+#ptatu{
+    position: absolute;top: 827px;left: 545px;
+}
+#ppiercing{
+    position: absolute;top: 827px;left: 1255px;
+}
+#pquitatu{
+    position: absolute;top: 1435px;left: 870px;
+}

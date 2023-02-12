@@ -1,0 +1,61 @@
+#introtipos{
+background-color: rgba(220, 220, 220, 0.5);
+width: 75%;
+margin: 0 auto;
+margin-top: 20px;
+height: 1260px;
+}
+#infotipos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19.82px;
+    text-align: center;
+    padding: 20px;
+}
+.enlacetipos{
+    text-decoration: none;
+    color: black;
+}
+.enlacetipos:hover{
+    color: lightgoldenrodyellow;
+}
+.imgstipos{
+    width: 550px;
+    height: 450px;
+}
+.imgstipos:hover{
+    border: 5px solid black;
+}
+#img1tipos{
+    margin-left: 70px;
+}
+#img2tipos{
+    margin-left: 180px;
+}
+#img3tipos{
+    margin-left: 70px;
+    margin-top: 100px;
+}
+#img4tipos{
+    margin-left: 180px;
+}
+.ptipos{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#pbwork{
+    display: inline-block;
+    position: absolute;top: 800px;left: 480px;
+}
+#poschool{
+    display: inline-block;
+    position: absolute;top: 800px;left: 1250px;
+}
+#prealista{
+    display: inline-block;
+    position: absolute;top: 1355px;left: 520px;
+}
+#ptjapones{
+    display: inline-block;
+    position: absolute;top: 1350px;left: 1170px;
+}
